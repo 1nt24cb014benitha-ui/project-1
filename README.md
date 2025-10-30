@@ -1,7 +1,7 @@
 # git-assignment
 my first repository
 
-This repository contains my C program for performing
+This repository contains my C program for performing  basic addition ,subtraction ,multiplication and division
 
 ## Files
 - example2.c 
